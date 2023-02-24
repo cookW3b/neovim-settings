@@ -1,0 +1,10 @@
+{
+	"prettier.tabWidth": 4,
+	"prettier.trailingComma": "es6",
+	"prettier.semi": false,
+	"prettier.singleQuote": true
+	"prettier.bracketSpacing": true,
+	"prettier.bracketSameLine": false,
+	"prettier.parser": "babel"
+	"prettier.useTabs": true
+}

@@ -1,0 +1,12 @@
+{
+	"prettier.tabWidth": 2,
+	"prettier.tabUse": true,
+	"prettier.semi": false,
+	"prettier.singleQuote": true, 
+	"prettier.bracketSpacing": true,
+	"prettier.bracketLine": false,
+	"prettier.parser": "babel",
+
+	"eslint.alwaysShowStatus": true,
+	"eslint.parser": "babel-eslint"
+}
